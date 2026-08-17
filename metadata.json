@@ -1,0 +1,7 @@
+{
+  "name": "زاد اليوم",
+  "description": "جرعة يومية منظمة من القرآن والتفسير والحديث والفقه موثقة من المصادر المعتمدة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
